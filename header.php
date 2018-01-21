@@ -26,8 +26,11 @@
 
 	<header id="masthead" class="site-header">
 		<div class="content-header">
-			<div class="">
-				
+			<div class="box content_box-header">
+				<div class="box-header">
+					<div class="box-header_row-one"><h1>¡Y volvemos recargados!, queremos verte pronto.</h1> <h3>Diseño y desarrollo web</h3></div>
+					<div class="box-header_row-two"><input type="submit" value="ver servicios"></div>
+				</div>
 			</div>
 		</div>
 	</header><!-- #masthead -->
