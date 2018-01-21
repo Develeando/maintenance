@@ -1,5 +1,5 @@
 /*!
-Theme Name: _s
+Theme Name: Druiz
 Theme URI: https://underscores.me/
 Author: Automattic
 Author URI: https://automattic.com/
@@ -851,3 +851,35 @@ object {
 .gallery-caption {
 	display: block;
 }
+/*======================================
+* Modifies in the styles @jhoninsuasti / 
+*======================================
+*/
+
+.content-header{
+	background-image: url("img/img_background-header.jpg") !important;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+.prueba{
+	color: green;
+}
+
+
+
+
+
+
+
+
+/* ============================================================
+*  Medias querys
+*  ============================================================
+*/
+@media (min-width: 960px)
+
+.bui .Home-hero {
+    height: 800px;
+}
+
