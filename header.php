@@ -25,10 +25,14 @@
 	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', '_s' ); ?></a>
 
 	<header id="masthead" class="site-header">
+		<div class="top_content-header">
+			<p class="topitem-header">Estamos reconstruyendo nuestro sitio web.</p>
+			<a href="#" class="top-email">comercial@druiz.co</a>
+		</div>
 		<div class="content-header">
 			<div class="box content_box-header">
 				<div class="box-header">
-					<div class="box-header_row-one"><h1>¡Y volvemos recargados!, queremos verte pronto.</h1> <h3>Diseño y desarrollo web</h3></div>
+					<div class="box-header_row-one"><h1>¡Espera!. Queremos que veas nuestros servicios. </h1> <h3>Diseño y desarrollo web</h3></div>
 					<div class="box-header_row-two"><input type="submit" value="ver servicios"></div>
 				</div>
 			</div>
